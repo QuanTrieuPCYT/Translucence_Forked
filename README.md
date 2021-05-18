@@ -1,5 +1,6 @@
 # Translucence_Forked
 The Translucence BetterDiscord Theme, forked by QuanTrieuPCYT
+
 Forked from <a href="https://github.com/CapnKitten/BetterDiscord/tree/master/Themes/Translucence">this project</a>
 # Translucence Theme - [![Paypal][paypal-logo]][paypal-url] [![GitHub][github-logo]][github-url]
 #### A translucent/frosted glass Discord theme
