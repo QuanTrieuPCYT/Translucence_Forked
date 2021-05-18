@@ -32,7 +32,7 @@ Current version: v1.0.6.3_forked (26/02/2021) - **[Download](https://github.com/
 
 &nbsp;
 
-## Variables
+## Variables (translucence_fork.css)
 
 #### App elements
  - `--app-bg` - The background image for the entire Discord app. Default: `url(https://webgay.ddns.net/adu.jpg)`
