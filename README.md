@@ -65,7 +65,7 @@ Current version: v1.0.6.3_forked (26/02/2021) - **[Download](https://github.com/
  - `--card-radius` - The border radius for cards. Default: `8px`
 
 #### Buttons
- - `--button-color` - The background color for most buttons. Default: `#d73d3d`
+ - `--button-color` - The background color for most buttons. Default: `#3db8d7`
  - `--button-action-color` - The background color for hovering and clicking on buttons (has a lowered opacity). Default: `#000`
  - `--button-text-color` - The text color for any buttons that use `--button-color`. Default: `#000`
  - `--button-radius` - The border radius for buttons. Default: `8px`
