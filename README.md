@@ -12,23 +12,23 @@ Current version: v1.0.6.3_forked (26/02/2021) - **[Download](https://github.com/
 
 #### Main chat area
 
-![discord-001](https://user-images.githubusercontent.com/4013216/92188719-5a0c9580-ee2b-11ea-9585-8d1092d6b9b1.png)
+![discord-001](https://github.com/QuanTrieuPCYT/Translucence_Forked/raw/main/img/main_chat_area.png)
 
 #### User server info
 
-![discord-002](https://user-images.githubusercontent.com/4013216/92188729-5ed14980-ee2b-11ea-8ede-5bb4eca3a953.png)
+![discord-002](https://github.com/QuanTrieuPCYT/Translucence_Forked/raw/main/img/user_server_info.png)
 
 #### User info popout
 
-![discord-003](https://user-images.githubusercontent.com/4013216/92188768-71e41980-ee2b-11ea-9da2-b88c5cde553f.png)
+![discord-003](https://github.com/QuanTrieuPCYT/Translucence_Forked/raw/main/img/user_info_popout.png)
 
 #### User settings
 
-![discord-004](https://user-images.githubusercontent.com/4013216/92188789-7ad4eb00-ee2b-11ea-8264-3bad57d6c761.png)
+![discord-004](https://github.com/QuanTrieuPCYT/Translucence_Forked/raw/main/img/user_settings.png)
 
 #### DMs
 
-![discord-005](https://user-images.githubusercontent.com/4013216/92188807-87594380-ee2b-11ea-8066-c764be590911.png)
+![discord-005](https://github.com/QuanTrieuPCYT/Translucence_Forked/raw/main/img/dms.png)
 
 &nbsp;
 
