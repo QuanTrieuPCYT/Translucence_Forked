@@ -1,10 +1,11 @@
 # Translucence_Forked
 The Translucence BetterDiscord Theme, forked by QuanTrieuPCYT
+Forked from <a href="https://github.com/CapnKitten/BetterDiscord/tree/master/Themes/Translucence">this project</a>
 # Translucence Theme - [![Paypal][paypal-logo]][paypal-url] [![GitHub][github-logo]][github-url]
 #### A translucent/frosted glass Discord theme
 <hr>
 
-Current version: v1.0.6.3 (26/02/2021) - **[Download](https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/CapnKitten/Translucence/master/Translucence.theme.css)**
+Current version: v1.0.6.3_forked (26/02/2021) - **[Download](https://github.com/QuanTrieuPCYT/Translucence_Forked/raw/main/Translucence.theme.css)**
 
 ## Previews
 
@@ -33,11 +34,11 @@ Current version: v1.0.6.3 (26/02/2021) - **[Download](https://betterdiscord.net/
 ## Variables
 
 #### App elements
- - `--app-bg` - The background image for the entire Discord app. Default: `url(https://i.imgur.com/U8bSjj5.jpg)`
+ - `--app-bg` - The background image for the entire Discord app. Default: `url(https://webgay.ddns.net/adu.jpg)`
  - `--app-blur` - The strength of the blur for every element that has one. Default: `6px`
  - `--app-margin` - The margin surrounding the content area. Default: `24px`
  - `--app-radius` - The border radius of the app and every element that has a border radius. Default: `8px`
- - `--app-accent` - The app accent color. Default: `#d73d3d`
+ - `--app-accent` - The app accent color. Default: `#5865f2`
  - `--app-accent-rgb` - The rgb values of the app accent color. Default: `215,61,61`
  - `--app-accent-text` - The text color for buttons and other various elements with the accent background color. Default: `#000`
  - `--sidebar-color` - The background color of the sidebars. Default: `rgba(0,0,0, 0.4)`
@@ -78,16 +79,8 @@ Current version: v1.0.6.3 (26/02/2021) - **[Download](https://betterdiscord.net/
  
 &nbsp;
 
-## Changelog
-
-#### v1.0.6 (18/11/2020)
-* Inline replies styled
-* Updated elements that Discord changed (If I missed any, please let me know)
-
-[View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Themes/Translucence/changelog.md)
-
 [paypal-logo]: https://img.shields.io/static/v1?label=PayPal&message=Donate&style=flat&logo=paypal&color=blue
-[paypal-url]: https://paypal.me/capnkitten
+[paypal-url]: https://paypal.me/plsdonatetoquan
 
 [github-logo]: https://img.shields.io/static/v1?label=GitHub&message=Sponsor&style=flat&logo=github&color=black
-[github-url]: https://github.com/sponsors/CapnKitten
+[github-url]: https://github.com/sponsors/QuanTrieuPCYT
