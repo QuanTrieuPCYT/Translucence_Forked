@@ -27,7 +27,7 @@
   --card-color-hover: rgba(0,0,0,0.5);
   --card-color-select: rgba(0,0,0,0.7);
   --card-radius: var(--app-radius);
-  --button-color: var(--app-accent);
+  --button-color: #3db8d7;
   --button-action-color: #000;
   --button-text-color: var(--app-accent-text);
   --button-radius: var(--app-radius);
