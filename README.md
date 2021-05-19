@@ -6,7 +6,7 @@ Forked from <a href="https://github.com/CapnKitten/BetterDiscord/tree/master/The
 #### A translucent/frosted glass Discord theme
 <hr>
 
-Current version: v1.0.6.3_forked (26/02/2021) - **[Download](https://github.com/QuanTrieuPCYT/Translucence_Forked/raw/main/Translucence.theme.css)**
+Current version: v1.0.6.3_forked (18/05/2021) - **[Download](https://github.com/QuanTrieuPCYT/Translucence_Forked/raw/main/Translucence.theme.css)**
 
 ## Previews
 
